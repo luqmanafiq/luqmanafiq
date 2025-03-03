@@ -6,7 +6,7 @@
 - 🔭 Currently learning more about Machine Learning and Cybersecurity
 - 🌱 Interests: AI, Full Stack Development, Data Analysis, and Machine Learning
 - 📫 Feel free to contact me through my [email](mailto:luqmanafiq135.la@gmail.com)
-- ⚡ Fun fact: I love to play football
+- ⚡ Fun fact: I play futsal for the university team
 
 ### Languages and Tools:
 <img align="left" alt="Pytorch" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" style="padding-right:10px;" />
