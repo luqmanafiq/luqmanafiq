@@ -3,8 +3,8 @@
 
 ### Software Engineer and CS student @ Newcastle University. 
 
-- 🔭 Currently learning more about Machine Learning and Cybersecurity
-- 🌱 Interests: AI, Full Stack Development, Data Analysis, and Machine Learning
+- 🔭 Currently learning more about Machine Learning and Cloud Computing
+- 🌱 Interests: AI, Full Stack Development, Data Analysis, and Mobile App Development
 - 📫 Feel free to contact me through my [email](mailto:luqmanafiq135.la@gmail.com)
 - ⚡ Fun fact: I play futsal for the university team
 
